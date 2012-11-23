@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="Flex" version="4">
-  <component name="FlexBuildConfigurationManager" active="2DEV2_masalaSabatino_CP3_gitTest">
+  <component name="FlexBuildConfigurationManager" active="Unnamed">
     <configurations>
-      <configuration name="2DEV2_masalaSabatino_CP3_gitTest" target-platform="Desktop" pure-as="true" main-class="Main" output-file="Main.swf" output-folder="$MODULE_DIR$/out/production/2DEV2_masalaSabatino_CP3_gitTest">
+      <configuration>
         <dependencies target-player="11.1">
           <sdk name="4.6.0" />
         </dependencies>
         <compiler-options />
-        <packaging-air-desktop package-file-name="Main" />
+        <packaging-air-desktop />
         <packaging-android />
         <packaging-ios />
       </configuration>
