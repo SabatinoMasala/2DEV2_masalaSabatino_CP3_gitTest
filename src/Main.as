@@ -1,15 +1,13 @@
 package {
 
-import be.devine.cp3.model.AppModel;
-
 import flash.display.Sprite;
+import flash.text.TextField;
 
 public class Main extends Sprite {
-
-    private var _appModel:AppModel;
-
     public function Main() {
-        _appModel = new AppModel();
+        var textField:TextField = new TextField();
+        textField.text = "Hello, World";
+        addChild(textField);
     }
 }
 }
